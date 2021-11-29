@@ -1,0 +1,26 @@
+{
+  "name": "hans-id",
+  "version": "1.0.0",
+  "description": "id generator",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemae/hans-id.git"
+  },
+  "keywords": [
+    "id",
+    "unique"
+  ],
+  "author": "Hans Andersen <hemae2468@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemae/hans-id/issues"
+  },
+  "homepage": "https://github.com/hemae/hans-id#readme",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  }
+}
