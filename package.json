@@ -20,7 +20,7 @@
     "url": "https://github.com/hemae/hans-id/issues"
   },
   "homepage": "https://github.com/hemae/hans-id#readme",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^4.5.2"
   }
 }
